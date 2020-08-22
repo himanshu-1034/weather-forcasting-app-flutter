@@ -1,0 +1,6 @@
+package com.himanshu.weather_forcasting_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
